@@ -10,14 +10,8 @@ body {
   display: flex;
   flex-direction: column;
 }
-header {
-  height: 100px;
 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-main {
+.Rebeca {
   flex-grow: 1;
 }
 
